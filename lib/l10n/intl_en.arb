@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "language": "Language",
+  "locale_str": "English",
+  "locale_code": "en",
+  "locale_date_format": "dd MMMM yyyy",
+  "app_name": "Coinbit",
+  "not_found": "Not found.",
+  "account":"Account",
+  "session":"Session",
+  "pairing":"Pairing",
+  "setting":"Setting",
+  "session_detail":"Session Detail",
+  "expired":"Expiry",
+  "last_update":"Last Update",
+  "delete":"Delete",
+  "ping":"Ping",
+  "emit":"Emit",
+  "update":"Update"
+}

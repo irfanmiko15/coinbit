@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "language": "Bahasa",
+  "locale_str": "Bahasa Indonesia",
+  "locale_code": "id_ID",
+  "locale_date_format": "dd MMMM yyyy",
+  "app_name": "Coinbit",
+  "not_found": "Tidak ditemukan.",
+  "account":"Account",
+  "session":"Session",
+  "pairing":"Pairing",
+  "setting":"Setting",
+  "session_detail":"Detail Sesi",
+  "expired":"Kadaluarsa",
+  "last_update":"Diperbaharui",
+  "delete":"Delete",
+  "ping":"Ping",
+  "emit":"Emit",
+  "update":"Update"
+}
